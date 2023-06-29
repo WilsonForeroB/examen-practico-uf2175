@@ -8,4 +8,5 @@ CREATE TABLE `users` (
     nombre VARCHAR(50)
 );
 
-INSERT INTO users (, ) VALUES (1, '');
+INSERT INTO users (id, nombre) VALUES (1, 'Wilson');
+INSERT INTO users (id, nombre) VALUES (2, 'Javier');
